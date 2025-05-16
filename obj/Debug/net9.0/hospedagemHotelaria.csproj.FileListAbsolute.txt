@@ -1,0 +1,14 @@
+/Users/gustavoantunes/estudos/cSharp/hospedagemHotelaria/bin/Debug/net9.0/hospedagemHotelaria
+/Users/gustavoantunes/estudos/cSharp/hospedagemHotelaria/bin/Debug/net9.0/hospedagemHotelaria.deps.json
+/Users/gustavoantunes/estudos/cSharp/hospedagemHotelaria/bin/Debug/net9.0/hospedagemHotelaria.runtimeconfig.json
+/Users/gustavoantunes/estudos/cSharp/hospedagemHotelaria/bin/Debug/net9.0/hospedagemHotelaria.dll
+/Users/gustavoantunes/estudos/cSharp/hospedagemHotelaria/bin/Debug/net9.0/hospedagemHotelaria.pdb
+/Users/gustavoantunes/estudos/cSharp/hospedagemHotelaria/obj/Debug/net9.0/hospedagemHotelaria.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gustavoantunes/estudos/cSharp/hospedagemHotelaria/obj/Debug/net9.0/hospedagemHotelaria.AssemblyInfoInputs.cache
+/Users/gustavoantunes/estudos/cSharp/hospedagemHotelaria/obj/Debug/net9.0/hospedagemHotelaria.AssemblyInfo.cs
+/Users/gustavoantunes/estudos/cSharp/hospedagemHotelaria/obj/Debug/net9.0/hospedagemHotelaria.csproj.CoreCompileInputs.cache
+/Users/gustavoantunes/estudos/cSharp/hospedagemHotelaria/obj/Debug/net9.0/hospedagemHotelaria.dll
+/Users/gustavoantunes/estudos/cSharp/hospedagemHotelaria/obj/Debug/net9.0/refint/hospedagemHotelaria.dll
+/Users/gustavoantunes/estudos/cSharp/hospedagemHotelaria/obj/Debug/net9.0/hospedagemHotelaria.pdb
+/Users/gustavoantunes/estudos/cSharp/hospedagemHotelaria/obj/Debug/net9.0/hospedagemHotelaria.genruntimeconfig.cache
+/Users/gustavoantunes/estudos/cSharp/hospedagemHotelaria/obj/Debug/net9.0/ref/hospedagemHotelaria.dll
