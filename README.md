@@ -73,11 +73,3 @@ reserva.CadastrarHospedes(hospedes);
 
 - C#
 - .NET 6.0 ou superior
-
-## Autor
-
-[Seu Nome]
-
-## Licença
-
-Este projeto está sob a licença MIT. 
